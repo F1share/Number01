@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Number01</string>
+    <string name="_1">ワードを1つ表示</string>
+    <string name="_3">ワードを3つ表示</string>
+</resources>
